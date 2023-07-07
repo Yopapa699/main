@@ -1,3 +1,3 @@
-local requiredversion = "2.0"
+local version = "2.0"
 
-return requiredversion
+return version
